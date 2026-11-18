@@ -1,4 +1,44 @@
 {
- "offset": 573888539,
- "filters": []
+ "offset": 573888540,
+ "filters": [
+  {
+   "url": "https://binalar.az/?type=2&broker=0&category=1%2C2%2C3&city=1&region=6&settlement=45&price_min=&price_max=500&metro=&site_id=0&phone=&code=&floor_min=&floor_max=&area_min=&area_max=&area2_min=&area2_max=&update_date_start=&update_date_end=&document=&order_by=0",
+   "name": "",
+   "seeded": true,
+   "seen": [
+    "1027896",
+    "1096229",
+    "1104410",
+    "1105007",
+    "1104579",
+    "1103674",
+    "1103642",
+    "1102976",
+    "1102513",
+    "1101401",
+    "1101688",
+    "1100058",
+    "1099757",
+    "1099572",
+    "988880",
+    "1070914",
+    "1096958",
+    "1096935",
+    "1096823",
+    "1096764",
+    "1095917",
+    "987126",
+    "1095005",
+    "1094920",
+    "1094628",
+    "1094415",
+    "1091915",
+    "1091783",
+    "1091735",
+    "1090690",
+    "1089566",
+    "1089561"
+   ]
+  }
+ ]
 }
